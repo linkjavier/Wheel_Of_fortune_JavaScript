@@ -13,12 +13,12 @@
   const symbolSegments = {
     1: "Rana",
     2: "Caracol",
-    3: "Delfin",
+    3: "Delfín",
     4: "Mariquita",
     5: "Koala",
     6: "Unicornio",
     7: "Dragón",
-    8: "Hombre de Nieve",
+    8: "Snow-Man",
   }
 
   const handleWin = (actualDeg) => {
